@@ -17,7 +17,7 @@ Quote Generator: https://quote-generator-delta-ebon.vercel.app/
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/js-quote-generator.git
+git clone https://github.com/dnlmkhlv/js-quote-generator.git
 ```
 
 2. Navigate to the project directory:
